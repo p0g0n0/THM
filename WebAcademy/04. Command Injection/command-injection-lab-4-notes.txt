@@ -1,0 +1,18 @@
+Command Injetion - Lab 4 - 
+
+ - Vulnerability Type:
+    
+
+ - Target Goal:
+
+
+ - Credentials:
+
+
+ - Steps to exploit it (Burp):
+    1.
+    2.
+
+ - Steps to exploit it (Python):
+    1. 
+    2.
